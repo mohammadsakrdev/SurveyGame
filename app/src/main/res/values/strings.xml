@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Survey Game</string>
+    <string name="action_settings">Settings</string>
+    <string name="poor_text">Poor</string>
+    <string name="fair_text">Fair</string>
+    <string name="good_text">Good</string>
+    <string name="excellent_text">Excellent</string>
+    <string name="q1">How do you rate the brands variety ?</string>
+    <string name="q2">How do you rate the staff attitude ?</string>
+    <string name="q3">How do you rate the prices for a quality ?</string>
+    <string name="q4">How do you rate the offers ?</string>
+    <string name="barButtonText">Show Bar Chart</string>
+    <string name="question1_txt">Q 1</string>
+    <string name="question2_txt">Q 2</string>
+    <string name="question3_txt">Q 3</string>
+    <string name="question4_txt">Q 4</string>
+    <string name="title_activity_bar_chart">BarChartActivity</string>
+    <string name="toast_msg">Please answer all  the questions</string>
+</resources>
